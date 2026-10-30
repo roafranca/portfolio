@@ -1,0 +1,4 @@
+arquivo;linha;id_venda;data;produto;quantidade;preco_unitario;motivo
+vendas_2026_01.csv;13;ERRO1;31/02/2026; CAFÉ ;3;25,90;Data inválida
+vendas_2026_02.csv;13;ERRO2;31/02/2026; CANECA ;3;39,90;Data inválida
+vendas_2026_03.csv;13;ERRO3;31/02/2026; GARRAFA ;3;59,90;Data inválida
